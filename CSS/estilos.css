@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://images2.alphacoders.com/955/95580.jpg');
+    background-size: 1850px 1010px;
+    font-family: Agency FB;
+  }
+  
+  .menu{
+    background-color: #EEAD2D
+  }
+  .menu ul {
+    Display: flex;
+    justify-content: space-around;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  .site-subtitle {
+    font-style: italic;
+      Color: #FFD700;
+    text-align: center;
+  }
+  .site-title {
+    Color: yellow;
+    text-align: center;
+  }
